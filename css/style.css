@@ -8,10 +8,10 @@
 
 .form-control:-ms-input-placeholder {
   /* Internet Explorer 10-11 */
-  color: red;
+  color: rgb(167, 164, 164);
 }
 
 .form-control::-ms-input-placeholder {
   /* Microsoft Edge */
-  color: red;
+  color: rgb(167, 164, 164);
 }
